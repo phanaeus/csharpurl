@@ -1,1 +1,1 @@
-HTTPS protocol client library code that utilizes libcurls multi socket interface (https://curl.se/libcurl/c/libcurl-multi.html). Uses libuv for polling. 
+HTTPS protocol client library code that utilizes libcurls multi socket interface (https://curl.se/libcurl/c/libcurl-multi.html). Uses libuv for polling. Serves to provide an alternative async HTTPS client API compared to the C# standard library classes HttpWebRequest and HttpClient.
