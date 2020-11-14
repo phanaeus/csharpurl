@@ -1,0 +1,1 @@
+HTTPS protocol client library code that utilizes libcurls multi socket interface. Uses libuv for polling.
